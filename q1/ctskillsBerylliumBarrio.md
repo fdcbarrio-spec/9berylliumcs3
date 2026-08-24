@@ -35,13 +35,13 @@ START
 3. Get the food price
 4. Calculate the total cost
 5. Ask the student for payment
-6. IF payment is enough THEN
-    Calculate the change
-    Give the change to the student
-    Complete the transaction
-   ELSE
-    Display "Payment is insufficient."
-   END IF
+6. IF payment is enough THEN  
+    Calculate the change  
+    Give the change to the student  
+    Complete the transaction  
+   ELSE  
+    Display "Payment is insufficient."  
+   END IF  
 
 END
 ---
