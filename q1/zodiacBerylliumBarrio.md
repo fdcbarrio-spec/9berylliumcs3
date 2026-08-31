@@ -2,10 +2,10 @@
 ---
 ## Requirements
 ---
-a. Ask the user to enter a year of birth. Make the baseline year 1900.
-b. Validate user input that it should not be earlier than 1900.
-c. If the user enters an invalid year, display an appropriate message, then stop or abort the program.
-d. Otherwise, determine the Chinese zodiac sign based on the following starting from 1900. Note: A zodiac sign will recur after each 12 years.
+a. Ask the user to enter a year of birth. Make the baseline year 1900.  
+b. Validate user input that it should not be earlier than 1900.  
+c. If the user enters an invalid year, display an appropriate message, then stop or abort the program.  
+d. Otherwise, determine the Chinese zodiac sign based on the following starting from 1900. Note: A zodiac sign will recur after each 12 years.  
 
 Rat (鼠 / Shǔ)  
 Ox (牛 / Niú)  
@@ -20,9 +20,9 @@ Rooster (鸡 / Jī)
 Dog (狗 / Gǒu)  
 Pig (猪 / Zhū)  
 
-e. Consider only the year of birth.
-Example:
-Enter your birth year: 2000
+e. Consider only the year of birth.  
+Example:  
+Enter your birth year: 2000  
 Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
 
 ## Code
