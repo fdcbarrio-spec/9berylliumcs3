@@ -25,7 +25,7 @@ Example:
 Enter your birth year: 2000
 Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
 
-### Code
+## Code
 ```python
 # Ask the user for their birth year and store it in the variable 'year'.
 year = int(input("Enter your birth year: "))
@@ -64,6 +64,6 @@ else:
     print("Your Chinese Zodiac Sign is:", zodiac)
 ```
 ---
-#### Documentation
+## Documentation
 ---
 ![Outputs](images/Screenshot%202026-08-31%20200658.png)
