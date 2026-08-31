@@ -1,8 +1,8 @@
 # Computer Science Portfolio
 ## Student Information
-**Name:** Franxianna Dawn C. Barrio
-**Section:** Beryllium
-**School Year:** 2026-2027
+**Name:** Franxianna Dawn C. Barrio  
+**Section:** Beryllium  
+**School Year:** 2026-2027  
 ---
 # Quarter 1
 ## Activities
