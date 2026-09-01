@@ -11,3 +11,8 @@
 
 ### Chinese Zodiac
 [View my Chinese Zodiac Exercise](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/zodiacBerylliumBarrio.py)
+
+[View my OOP Concept Exercise](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/ila_oop.md)
+
+[View My OOP Seed System](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/classObjectUML.md)
+[Class Diagram](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/images/classDiagram.png)
