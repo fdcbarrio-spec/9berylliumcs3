@@ -19,3 +19,5 @@
 [View My OOP Seed System](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/classObjectUML.md)
 
 [Class Diagram](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/images/classDiagram.png)
+
+[View My OOP Seed System - Part II](q1/classAttributesMethods.md)
