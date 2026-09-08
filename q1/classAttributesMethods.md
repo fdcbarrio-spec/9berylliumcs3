@@ -24,7 +24,7 @@ Link to my previous activity:
 
 ## Python Implementation
 
-[View Python Source](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q1/classImplementation.py)
+[View Python Source](classImplementation.py)
 
 ## Test Run
 ![Test Run](images/classTestRun(1).png)
