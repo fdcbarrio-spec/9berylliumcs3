@@ -1,16 +1,16 @@
-# Class Relationships: Association and Multiplicity
-## Previous Work
-[Part I - Classes and Objects](classObjectUML.md)
-[Part II - Class Attributes and Methods](classAttributesMethods.md)
-## Existing Class
-Class: Music
-Description:
+# Class Relationships: Association and Multiplicity  
+## Previous Work  
+[Part I - Classes and Objects](classObjectUML.md)  
+[Part II - Class Attributes and Methods](classAttributesMethods.md)  
+## Existing Class  
+Class: Music  
+Description: The Music class represents a song in a music system. It stores information about a song and provides actions that allow the user to interact with it.  
 ## New Related Class
 Class: Artists
-Description:
+Description: The Artists class represents the person/people who created the song or music.
 ## Association
 Relationship: Music HAS-A is created by Artists
-Explanation:
+Explanation: 
 ## Multiplicity
 
 Multiplicity: 1 : many
