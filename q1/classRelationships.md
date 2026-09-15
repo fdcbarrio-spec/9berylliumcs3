@@ -25,7 +25,8 @@ Explanation: The one-to-many multiplicity fits my design because
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png)
 ## Analysis
 ### What is the association between your two classes?
-### What multiplicity did you choose and why?
+### What multiplicity did you choose and why?  
+I chose the one-to-many multiplicity because music (or a song) can be made by several artists.
 ### How did you implement the relationship in Python?
 ### Why did you store an object reference instead of copying its data?
 ### If your relationship uses many, why is a list appropriate?
