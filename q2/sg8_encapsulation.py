@@ -3,8 +3,8 @@ class BankAccount:
   
     #initialize private attributes 
     def __init__(self, account_number, balance):
-        self.__account_number = account_number
-        self.__balance = balance
+        self.__account_number = int(account_number)
+        self.__balance = float(balance)
 
     #setter method for account number
     def set_account_number(self, account_number):
