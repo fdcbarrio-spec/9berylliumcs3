@@ -22,4 +22,8 @@
 
 [View My OOP Seed System - Part II](q1/classAttributesMethods.md)
 
-[View My SG 8 Encapsulation Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/sg8_encapsulation.py)
+---
+# Quarter 2
+## Activities 
+
+[View My SG 8 Encapsulation Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)
