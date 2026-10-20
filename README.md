@@ -26,5 +26,5 @@
 # Quarter 2
 ## Activities 
 
-[View My SG 8 Encapsulation Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)
+[View My SG 8 Encapsulation Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)  
 [View My SG 9 Inheritance Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg9_inheritance)
