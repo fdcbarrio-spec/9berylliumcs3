@@ -28,3 +28,4 @@
 
 [View My SG 8 Encapsulation Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)  
 [View My SG 9 Inheritance Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg9_inheritance.py)
+[View My SG 10 Zoo Management System Activity](https://github.com/fdcbarrio-spec/9berylliumcs3/blob/main/q2/sg10_overriding.py)
